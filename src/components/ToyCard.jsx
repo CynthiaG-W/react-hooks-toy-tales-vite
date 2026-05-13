@@ -61,7 +61,7 @@ function ToyCard({ toy, toys, setToys }) {
       />
 
       {/* toy likes */}
-      <p>{toy.likes} Likes</p>
+      <p>{toy.likes} Likes </p>
 
       {/* like button */}
       <button
